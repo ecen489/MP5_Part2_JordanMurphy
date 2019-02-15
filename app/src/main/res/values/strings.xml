@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MP5_Part2_JordanMurphy</string>
+    <string-array name="quiz">
+        <item>Android</item>
+        <item>iPhone</item>
+        <item>Max OS X</item>
+    </string-array>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
